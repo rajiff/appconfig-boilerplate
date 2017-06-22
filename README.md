@@ -70,3 +70,15 @@ For detailed code, please check [this](https://github.com/rajiff/appconfig-boile
 - Keep only a single configuration files for your app, avoid maintaining multiple
 - Include test cases to test configuration settings are used by your application code
 - Keep the config file name to lowercase and avoid mis-reading the configurations, when app is running across platforms (Win/Unix/Mac/Linux ...)
+
+
+## How to run this code
+Clone the repository to a folder
+`cd` to that folder and execute below command
+
+1. `npm install`
+
+2. `npm start`
+
+
+> Suggestions, issue reports are welcome
