@@ -63,7 +63,7 @@ This is same for any config setting
 
 now you can include this module, wherever is needed and use
 
-For detailed code, please check this repository
+For detailed code, please check [this](https://github.com/rajiff/appconfig-boilerplate) repository
 
 ### Few Do's and Don'ts
 - Don't commit sensitive data into same repository as your code, if required, they can be maintained only in environment variables/scipts, only the format can be committed with some sample data
